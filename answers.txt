@@ -1,0 +1,1 @@
+q1: Why might be consider using git?Answer:Git allows for collaberation on projects and has many features that allow developers to do so without interrupting each other's workflow.
