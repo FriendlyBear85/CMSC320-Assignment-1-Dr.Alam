@@ -1,3 +1,4 @@
 q1: Why might be consider using git?Answer:Git allows for collaberation on projects and has many features that allow developers to do so without interrupting each other's workflow.
 q2: What field could data science be applied to? Answer: Data science can be applied to any field that requires research. To give an example, the healthcare industry can use data science to track which drugs/medical procedures prove to be the most effective.
 q3: What is the difference between merging and rebasing?Answer: Merging is used when you want to keep the history of both branches, whereas rebasing rewrites the history by moving the feature branch onto the tip of the main branch 
+q4: What skills do you hope to improve during this course?Answer:I find data scrapping to be one of the coolest parts of gathering data. I also want to learn more about how to reliably parse through data and the different techniques of doing so
